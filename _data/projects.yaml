@@ -1,0 +1,48 @@
+- title: <u>ER structure</u>
+  subtitle: Effects of nanoscale ER topology 
+  group: featured
+  image: images/projects/ER_Gif2.gif
+  description: Can local membrane shape affect ER protein behavior and function?
+  tags:
+    - Neurodegeneration, Cancer, Musculoskeletal Disorders
+
+- title: <u>ER-associated degradation</u>
+  subtitle: Retrotranslocation and degradation
+  group: featured
+  image: images/projects/er-degradation.gif
+  description: How are damaged proteins removed from the ER and degraded?
+  tags:
+    - Cancer, Aging, Neurodegeneration, Retinopathy, Muscle wasting disorders
+
+- title: <u>Mechanisms of secretion</u>
+  subtitle: Quality control of membrane and secreted proteins 
+  group: featured
+  image: images/projects/ERES_1.gif
+  description: How does a cell know when a protein is safe to secrete?
+  tags:
+    - Immune disorders, Cancer, Adrenal and Hormonal Disorders
+
+- title: <u>Mechanisms of autophagosome biogenesis</u>
+  subtitle: Synthesis of growing autophagosome membranes
+  group: featured
+  image: images/projects/phagosome.gif
+  description: How are lipids shuttled to a growing autophagic crescent?
+  tags:
+    - Aging, Neurodegeneration, Muscle disorders
+    
+- title: <u>Organelle Communication</u>
+  subtitle: Signaling through membrane contact sites  
+  group: featured
+  image: images/projects/CS_2.gif
+  description: How do cells coordinate reactions in physically separate compartments?
+  tags:
+    - Aging, Neurodegeneration, Diabetes, Cancer
+    
+
+- title: <u>Nanoscale cellular signaling</u>
+  subtitle: Directly visualizing individual signaling events  
+  group: featured
+  image: images/photo.jpg
+  description: How do cells compute signals to make functional decisions?
+  tags:
+    - Cancer, Diabetes and Metabolic Disorders, Immune dysfunction

@@ -1,0 +1,356 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1038/s41586-023-06956-y
+  title: "Motion of VAPB molecules reveals ER mitochondria contact site subdomains"
+  authors:
+  - Christopher J. Obara
+  - Jonathon Nixon-Abell
+  - Andrew S. Moore
+  - Federica Riccio
+  - David P. Hoffman
+  - Gleb Shtengel
+  - C. Shan Xu
+  - Kathy Schaefer
+  - H. Amalia Pasolli
+  - Jean-Baptiste Masson
+  - Harald F. Hess
+  - Christopher P. Calderon
+  - Craig Blackstone
+  - Jennifer Lippincott-Schwartz
+  publisher: Nature
+  date: '2024-01-24'
+  link: https://doi.org/gtqthd
+  orcid: 0000-0003-1028-6076
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: ''
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06956-y/MediaObjects/41586_2023_6956_Fig1_HTML.png?as=webp
+  buttons:
+  - type: article
+    link: https://www.nature.com/articles/s41586-023-06956-y
+- id: doi:10.1038/s41586-023-05828-9
+  title: Fast and sensitive GCaMP calcium indicators for imaging neural populations
+  authors:
+  - Yan Zhang
+  - "M\xE1rton R\xF3zsa"
+  - Yajie Liang
+  - Daniel Bushey
+  - Ziqiang Wei
+  - Jihong Zheng
+  - Daniel Reep
+  - Gerard Joey Broussard
+  - Arthur Tsang
+  - Getahun Tsegaye
+  - Sujatha Narayan
+  - Christopher J. Obara
+  - Jing-Xuan Lim
+  - Ronak Patel
+  - Rongwei Zhang
+  - Misha B. Ahrens
+  - Glenn C. Turner
+  - Samuel S.-H. Wang
+  - Wyatt L. Korff
+  - Eric R. Schreiter
+  - Karel Svoboda
+  - Jeremy P. Hasseman
+  - Ilya Kolb
+  - Loren L. Looger
+  publisher: Nature
+  date: '2023-03-15'
+  buttons:
+  - type: article
+    link: https://doi.org/gr3r34
+  link: https://doi.org/gr3r34
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-05828-9/MediaObjects/41586_2023_5828_Fig1_HTML.png?as=webp
+- id: doi:10.1101/2023.08.22.554218
+  title: PDZD8-FKBP8 tethering complex at ER-mitochondria contact sites regulates
+    mitochondrial complexity
+  authors:
+  - Koki Nakamura
+  - Saeko Aoyama-Ishiwatari
+  - Takahiro Nagao
+  - Mohammadreza Paaran
+  - Christopher J. Obara
+  - Yui Sakurai-Saito
+  - Jake Johnston
+  - Yudan Du
+  - Shogo Suga
+  - Masafumi Tsuboi
+  - Makoto Nakakido
+  - Kouhei Tsumoto
+  - Yusuke Kishi
+  - Yukiko Gotoh
+  - Chulhwan Kwak
+  - Hyun-Woo Rhee
+  - Jeong Kon Seo
+  - Hidetaka Kosako
+  - Clint Potter
+  - Bridget Carragher
+  - Jennifer Lippincott-Schwartz
+  - Franck Polleux
+  - Yusuke Hirabayashi
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-22'
+  link: https://doi.org/gt6mb9
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: images/publication/pdz.png
+  buttons:
+  - type: preprint
+    link: https://doi.org/gt6mb9
+- id: doi:10.1101/2023.04.23.537908
+  title: Simultaneous photoactivation and high-speed structural tracking reveal diffusion-dominated
+    motion in the endoplasmic reticulum
+  authors:
+  - Matteo Dora
+  - Christopher J. Obara
+  - Tim Abel
+  - Jennifer Lippincott-Schwarz
+  - David Holcman
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-04-25'
+  link: https://doi.org/10.1101/2023.04.23.537908
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: images/publication/simultaneouspa.png
+  buttons:
+  - type: preprint
+    link: https://www.biorxiv.org/content/10.1101/2023.04.23.537908v2
+- id: doi:10.1101/cshperspect.a041259
+  title: "Structural Diversity within the Endoplasmic Reticulum\u2014From the Microscale\
+    \ to the Nanoscale"
+  authors:
+  - Christopher J. Obara
+  - Andrew S. Moore
+  - Jennifer Lippincott-Schwartz
+  publisher: Cold Spring Harbor Perspectives in Biology
+  date: '2022-09-19'
+  link: https://doi.org/gq8d2v
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: images/publication/structural-diversity.png
+  buttons:
+  - type: article
+    link: https://doi.org/gq8d2v
+- id: doi:10.1038/s41586-021-04204-9
+  title: ER proteins decipher the tubulin code to regulate organelle distribution
+  authors:
+  - Pengli Zheng
+  - Christopher J. Obara
+  - Ewa Szczesna
+  - Jonathon Nixon-Abell
+  - Kishore K. Mahalingan
+  - Antonina Roll-Mecak
+  - Jennifer Lippincott-Schwartz
+  - Craig Blackstone
+  publisher: Nature
+  date: '2021-12-15'
+  link: https://www.nature.com/articles/s41586-021-04204-9
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-04204-9/MediaObjects/41586_2021_4204_Fig2_HTML.png?as=webp
+  buttons: 
+  - type: article 
+    link: https://www.nature.com/articles/s41586-021-04204-9
+- id: doi:10.1103/PhysRevResearch.4.023182
+  title: Unraveling trajectories of diffusive particles on networks
+  authors:
+  - Yunhao Sun
+  - Zexi Yu
+  - Christopher J. Obara
+  - Keshav Mittal
+  - Jennifer Lippincott-Schwartz
+  - Elena F. Koslover
+  publisher: Physical Review Research
+  date: '2022-06-06'
+  link: https://doi.org/gt6mcg
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: images/publication/unraveling.png
+  buttons: 
+  - type: article 
+    link: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023182
+- id: doi:10.1038/s41586-021-03309-5
+  title: Actin cables and comet tails organize mitochondrial networks in mitosis
+  authors:
+  - Andrew S. Moore
+  - Stephen M. Coscia
+  - Cory L. Simpson
+  - Fabian E. Ortega
+  - Eric C. Wait
+  - John M. Heddleston
+  - Jeffrey J. Nirschl
+  - Christopher J. Obara
+  - Pedro Guedes-Dias
+  - C. Alexander Boecker
+  - Teng-Leong Chew
+  - Julie A. Theriot
+  - Jennifer Lippincott-Schwartz
+  - Erika L. F. Holzbaur
+  publisher: Nature
+  date: '2021-03-03'
+  link: https://doi.org/gh62wc
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03309-5/MediaObjects/41586_2021_3309_Fig1_HTML.png?as=webp
+  buttons: 
+  - type: article 
+    link: https://www.nature.com/articles/s41586-021-03309-5
+- id: doi:10.1007/978-1-0716-1402-0_1
+  title: Advances in Confocal Microscopy and Selected Applications
+  authors:
+  - W. Matt Reilly
+  - Christopher J. Obara
+  publisher: Methods in Molecular Biology
+  date: '2021-01-01'
+  link: https://doi.org/gpk5hx
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_1/MediaObjects/475400_1_En_1_Fig2_HTML.png?as=webp
+  buttons: 
+  - type: article 
+    link: https://link.springer.com/protocol/10.1007/978-1-0716-1402-0_1
+- id: doi:10.1038/s41592-021-01236-x
+  title: Deep learning enables fast and dense single-molecule localization with high
+    accuracy
+  authors:
+  - Artur Speiser
+  - "Lucas-Raphael M\xFCller"
+  - Philipp Hoess
+  - Ulf Matti
+  - Christopher J. Obara
+  - Wesley R. Legant
+  - Anna Kreshuk
+  - Jakob H. Macke
+  - Jonas Ries
+  - Srinivas C. Turaga
+  publisher: Nature Methods
+  date: '2021-09-01'
+  link: https://doi.org/gmpfzt
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-021-01236-x/MediaObjects/41592_2021_1236_Fig1_HTML.png?as=webp
+  buttons: 
+  - type: article 
+    link: https://doi.org/gmpfzt
+- id: doi:10.1002/anie.201706121
+  title: "Rational Engineering of Photoconvertible Fluorescent Proteins for Dual
+    Color Fluorescence Nanoscopy Enabled by a Triplet State Mechanism of Primed Conversion"
+  authors:
+  - Manuel Alexander Mohr
+  - Andrei Yu. Kobitski
+  - Lluc Rullan Sabater
+  - Karin Nienhaus
+  - Christopher John Obara
+  - "Jennifer Lippincott\u2010Schwartz"
+  - Gerd Ulrich Nienhaus
+  - Periklis Pantazis
+  publisher: Angewandte Chemie International Edition
+  date: '2017-07-11'
+  link: https://doi.org/gbmv26
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://onlinelibrary.wiley.com/cms/asset/309c21fd-f0c9-4662-81a7-086129538a31/anie201706121-fig-0003-m.jpg
+  buttons: 
+  - type: article 
+    link: https://doi.org/gbmv26
+- id: doi:10.1126/science.aaf3928
+  title: Increased spatiotemporal resolution reveals highly dynamic dense tubular
+    matrices in the peripheral ER
+  authors:
+  - Jonathon Nixon-Abell
+  - Christopher J. Obara
+  - Aubrey V. Weigel
+  - Dong Li
+  - Wesley R. Legant
+  - C. Shan Xu
+  - H. Amalia Pasolli
+  - Kirsten Harvey
+  - Harald F. Hess
+  - Eric Betzig
+  - Craig Blackstone
+  - Jennifer Lippincott-Schwartz
+  publisher: Science
+  date: '2016-10-28'
+  link: https://doi.org/f9bwq6
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://www.science.org/cms/10.1126/science.aaf3928/asset/e2c45903-df91-4c6f-a1c1-7858fa5a2164/assets/graphic/354_aaf3928_fa.jpeg
+  buttons: 
+  - type: article 
+    link: https://doi.org/f9bwq6
+- id: doi:10.4049/jimmunol.1500352
+  title: Differential Roles of Chemokines CCL2 and CCL7 in Monocytosis and Leukocyte
+    Migration during West Nile Virus Infection
+  authors:
+  - Susana V. Bardina
+  - Daniela Michlmayr
+  - Kevin W. Hoffman
+  - Christopher J. Obara
+  - Janet Sum
+  - Israel F. Charo
+  - Wuyuan Lu
+  - Alexander G. Pletnev
+  - Jean K. Lim
+  publisher: The Journal of Immunology
+  date: '2015-11-01'
+  link: https://doi.org/f7vfz3
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/195/9/10.4049_jimmunol.1500352/2/m_ji_1500352_f2.jpeg?Expires=1724761174&Signature=DxKVB8BlNCeEeCloaByqrv2HT3stETj7RDvtX8KreZGHPOmqtMNVz~Rg5bDzps2J~2YCtGC~iCsiayCXvnH03Ho1LtrykHdw44q1kNa9ziF6gehc2iI~fF03pTwoXXIUjynTLwjvetlZNxOpKwUVhmpogpTZLmqVYVZ87ms3oKgZn~Pg0uhdRhwX2vnWFvPU4Xk4jwZwLmCZek~fBXLRbRyParDTjyl~4q2YHsIoE3WV6-AnBkxRj-A6FwYDk4vunQve~vshq3TuEdWHceQQkF835XuoDmxIvBk1y0JkKw2OCPbOfvE2N3RFM4yOCLapKvgAWOLZNmPTlz4r1qpfRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  buttons: 
+  - type: article 
+    link: https://doi.org/f7vfz3
+- id: doi:10.1016/j.virol.2012.11.016
+  title: Impact of viral attachment factor expression on antibody-mediated neutralization
+    of flaviviruses
+  authors:
+  - Christopher J. Obara
+  - Kimberly A. Dowd
+  - Julie E. Ledgerwood
+  - Theodore C. Pierson
+  publisher: Virology
+  date: '2013-03-01'
+  link: https://doi.org/f4nzcx
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0042682212005892-gr2.jpg
+  buttons: 
+  - type: article 
+    link: https://doi.org/f4nzcx
+- id: doi:10.4049/jimmunol.1003003
+  title: Chemokine Receptor Ccr2 Is Critical for Monocyte Accumulation and Survival
+    in West Nile Virus Encephalitis
+  authors:
+  - Jean K. Lim
+  - Christopher J. Obara
+  - Aymeric Rivollier
+  - Alexander G. Pletnev
+  - Brian L. Kelsall
+  - Philip M. Murphy
+  publisher: The Journal of Immunology
+  date: '2011-01-01'
+  link: https://doi.org/cjn4rd
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+  buttons: 
+  - type: article 
+    link: https://doi.org/cjn4rd
+  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/186/1/10.4049_jimmunol.1003003/6/m_1003003fig04.jpeg?Expires=1724721893&Signature=sX~aAQ9~4aAOuxUymNFpY7y2PyI0E4hkxIzUB9xBPtfYfIjjecB7EimEWOpQUg43OAqJMYLI8EKx19A51IzORelocd0Z2UPm4yUkmz7Dv5~5mZ2RkrwZoJtN61fUChh-J9SESmauNmEAwJQulzFeZs6O8gOC7yc02jg1-S2mCfdgqOisuGyVLzxW81pX0WGCTM80J~EsfFdeH1ETQRKg8ODEMQmVqSATq6MhTXPYeg3LYv3oDXSIWGFamFLQ5JftiLU1sxjmUlH0XRKr5kOZx0zDNoUU1ahqpEjUry5~QT22UcSmyOVBW7dtdEHD8~QOsR-OYk31If6eEG4xIpD88Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA

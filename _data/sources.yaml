@@ -1,0 +1,11 @@
+- id: doi:10.1038/s41586-023-06956-y
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  date: 2024-01-24
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06956-y/MediaObjects/41586_2023_6956_Fig1_HTML.png?as=webp
+  buttons:
+    - type: source
+      text: Manuscript Source
+      link: https://www.nature.com/articles/s41586-023-06956-y
+
+  
