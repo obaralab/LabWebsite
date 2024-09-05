@@ -289,7 +289,7 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://www.science.org/cms/10.1126/science.aaf3928/asset/e2c45903-df91-4c6f-a1c1-7858fa5a2164/assets/graphic/354_aaf3928_fa.jpeg
+  image: https://www.science.org/cms/10.1126/science.aaf3928/asset/008959c8-982a-4ff1-bd28-e84bb61fb676/assets/graphic/354_aaf3928_f3.jpeg
   buttons: 
   - type: article 
     link: https://doi.org/f9bwq6

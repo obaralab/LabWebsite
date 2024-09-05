@@ -7,6 +7,8 @@ $big-padding: 5px;
 $collapse: 700px;
 $sticky: true;
 
+
+
 header {
   display: flex;
   justify-content: space-between;
@@ -24,7 +26,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: #FFFFFF;
   text-decoration: none;
 }
 
@@ -58,14 +60,25 @@ header a {
 }
 
 .title {
-  font-size: var(--large);
+  font-size: var(--xl);
+  //font-size: var(--xxl);
+  font-weight: 500;
+  color: #FFFFFF;
+  //text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  letter-spacing: -1px;
+  
 }
 
 .subtitle {
-  opacity: 0.8;
-  font-weight: var(--regular);
-  font-family:"Roboto"
+  //font-weight: var(--regular);
+  font-family:"Roboto";
+  font-weight: 250;
+  color: #F3E500;
+  //text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  //margin-top: 10px;
+	
 }
+
 
 .nav-toggle {
   display: none;

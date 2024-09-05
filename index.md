@@ -30,38 +30,11 @@ The <b>Obara Lab</b> is a team of creative, open-minded individuals working toge
 
 
 {% include section.html %}
-<!--
-{%
-  include button.html
-  link="projects"
-  text="PROJECTS"
-  icon="fa-solid fa-diagram-project"
-  flip=true
-  tooltip="Overview of research projects in our lab"
-%}
-{%
-  include button.html
-  link="publication"
-  text="PUBLICATIONS"
-  icon="fa-solid fa-newspaper"
-  flip=true
-  tooltip="Published works from our lab"
-%}
-
-{%
-  include button.html
-  link="team"
-  text="TEAM"
-  icon="fa-solid fa-users"
-  flip=true
-  tooltip="Our group"
-%}
--->
 
 
 {% capture text %}
 
-Overview of research projects in our lab. 
+Overview of research projects 
 {: style="font-size: var(--xl); text-align: center;"}
 
 {%
@@ -69,7 +42,30 @@ Overview of research projects in our lab.
   link="projects"
   text="Projects"
   icon="fa-solid fa-arrow-right"
-  flip=true
+%}
+
+{% endcapture %}
+
+
+
+{%
+  include feature.html
+  image="images/hela.png"
+  link="projects"
+  text=text
+%}
+
+
+{% capture text %}
+
+Overview of tools and technology 
+{: style="font-size: var(--xl); text-align: center;"}
+
+{%
+  include button.html
+  link="technology"
+  text="Technology"
+  icon="fa-solid fa-arrow-right"  
 %}
 
 {% endcapture %}
@@ -81,7 +77,9 @@ Overview of research projects in our lab.
   image="images/microscope-colored.jpg"
   link="projects"
   text=text
+  flip=true
 %}
+
 
 {% capture text %}
 
@@ -94,17 +92,15 @@ Published works from our lab.
   link="publication"
   text="Publications"
   icon="fa-solid fa-arrow-right"
-  flip=true
-  
+   
 %}
 
 {% endcapture %}
 
 {%
   include feature.html
-  image="images/hela.png"
+  image="images/ER-coloredZ.jpg"
   link="research"
-  flip="true"
   text=text
 %}
 
@@ -120,6 +116,7 @@ Familarize yourself with our group.
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
   flip=true
+  
 %}
 
 {% endcapture %}
@@ -128,5 +125,6 @@ Familarize yourself with our group.
   image="images/LAB/trio.png"
   link="team"
   text=text
+  flip=true
 %}
 

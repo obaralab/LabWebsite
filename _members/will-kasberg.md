@@ -1,6 +1,6 @@
 ---
 name: William Kasberg
 image: images/Will.jpg
-role: postdoc
+role: v-postdoc
 group: active
 ---

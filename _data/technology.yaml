@@ -1,0 +1,29 @@
+- title: <u>ER structure</u>
+  subtitle: Effects of nanoscale ER topology 
+  group: featured
+  image: images/projects/ER_Gif2.gif
+  description: Can local membrane shape affect ER protein behavior and function?
+  
+
+- title: <u>ER-associated degradation</u>
+  subtitle: Retrotranslocation and degradation
+  group: featured
+  image: images/projects/er-degradation.gif
+  description: How are damaged proteins removed from the ER and degraded?
+  
+
+- title: <u>Mechanisms of secretion</u>
+  subtitle: Quality control of membrane and secreted proteins 
+  group: featured
+  image: images/projects/ERES_1.gif
+  description: How does a cell know when a protein is safe to secrete?
+  
+
+- title: <u>Mechanisms of autophagosome biogenesis</u>
+  subtitle: Synthesis of growing autophagosome membranes
+  group: featured
+  image: images/projects/phagosome.gif
+  description: How are lipids shuttled to a growing autophagic crescent?
+  
+
+  

@@ -9,6 +9,11 @@ pi:
 postdoc:
   icon: fa-solid fa-microscope
   description: Postdoctoral Researcher
+  
+  
+v-postdoc:
+  icon: fa-solid fa-microscope
+  description: Visiting Postdoctoral Researcher
 
 phd:
   icon: fa-solid fa-graduation-cap
