@@ -12,7 +12,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: #FFFFFF;
   text-decoration: none;
 }
 
@@ -46,13 +46,16 @@ header a {
 }
 
 .title {
-  font-size: var(--large);
+  font-size: var(--xl);
+  font-weight: 500;
+  color: #FFFFFF;
+  letter-spacing: -1px;
 }
 
 .subtitle {
-  opacity: 0.8;
-  font-weight: var(--regular);
   font-family: "Roboto";
+  font-weight: 250;
+  color: #F3E500;
 }
 
 .nav-toggle {
