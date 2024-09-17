@@ -1,29 +1,29 @@
-- title: <u>ER structure</u>
-  subtitle: Effects of nanoscale ER topology 
+- title: <u>Correlated sptPALM</u>
+  subtitle: Single particle tracking-(photoactivation) localization microscopy 
   group: featured
-  image: images/projects/ER_Gif2.gif
-  description: Can local membrane shape affect ER protein behavior and function?
+  image: images/technology/sptPALM.png
+  description: Simultaneous imaging of individual proteins or pairs of proteins and their local environment in real time
   
 
-- title: <u>ER-associated degradation</u>
-  subtitle: Retrotranslocation and degradation
+- title: <u>FIB-SEM</u>
+  subtitle: Focused Ion Beam-Scanning Electron Microscopy
   group: featured
-  image: images/projects/er-degradation.gif
-  description: How are damaged proteins removed from the ER and degraded?
+  image: images/technology/FIB-SEM.png
+  description: Three-dimensional electron microscopy of freeze-substituted resin-embedded samples
   
 
-- title: <u>Mechanisms of secretion</u>
-  subtitle: Quality control of membrane and secreted proteins 
+- title: <u>Cryo-CLEM</u>
+  subtitle: Correlated cryogenic light and electron microscopy 
   group: featured
-  image: images/projects/ERES_1.gif
-  description: How does a cell know when a protein is safe to secrete?
+  image: images/technology/Correlative_EM.png
+  description: Combining fluorescence microscopy and electron microscopy of frozen samples
   
 
-- title: <u>Mechanisms of autophagosome biogenesis</u>
-  subtitle: Synthesis of growing autophagosome membranes
+- title: <u>Dynamic Probability Analysis</u>
+  subtitle: Point photoactivation and probability distribution analysis
   group: featured
-  image: images/projects/phagosome.gif
-  description: How are lipids shuttled to a growing autophagic crescent?
+  image: images/technology/ProbabilityAnalysis.png
+  description: Combining high speed imaging, simultaneous photoactivation, and probability analysis to understand protein dynamics
   
 
   

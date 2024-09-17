@@ -4,7 +4,7 @@ title: Technology
 
 # <u>Technology</u>
 
-Our lab is interested in the way that single macromolecules, experiencing only the laws of physics in their local environment, are collectively orchestrated to give rise to living, self-maintaining systems. We primarily work on the dynamic, structurally complex membranes of subcellular organelles, which host crucial machinery for the regulation and coordination of nearly every major process of life in both health and disease. 
+Our lab works at the interface of technology development and biological discovery. We believe that integrating emerging technologies in diverse fields allows us to tackle the biggest and most interesting questions in biological science. Together with collaborators at UCSD, across the US, and worldwide, we work to combine the newest and most exciting tools in complimentary ways. We love the idea of “something old and something new” in scientific endeavors, so we also make heavy use of classic approaches in molecular biology, biochemistry, and computational approaches. We are always adopting, innovating, and updating our tools, but listed below are some imaging tools we are currently using heavily:
 
 {% include section.html %}
 {% include list.html component="card" data="technology" style="small" %}

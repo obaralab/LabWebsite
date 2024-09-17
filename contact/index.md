@@ -50,6 +50,15 @@ We are located in the Leichtag Family Foundation Biomedical Research (LBR) Build
 
 Our offices are in Rooms 412 (Chris) and 410 (Lab Office). The Lab space is located in Room 432. We generally meet visitors in the lobby, so let us know when you are coming and we’ll help you find the space.
 
+
+{%
+  include figure.html
+  image="images/map.png"
+  link="team"
+  width="100%"
+%}
+
+
 {%
   include button.html
   type="address"

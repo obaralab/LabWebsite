@@ -22,7 +22,7 @@ nav:
 
 {%
   include card.html
-  image="images/Reggie.png"
+  image="images/Reggie.jpg"
   link="members/will-kasberg"
   title="Reggie"
   style="big"
@@ -59,8 +59,8 @@ nav:
 
 {%
   include figure.html
-  image="images/LAB/trio.png"
-  caption="Lab dinner and beach"
+  image="images/LAB/roadtrip.png"
+  caption="Road triiiiiiiiip…in an (Uber) Tesla"
   link="team"
   width="100%"
 %}
@@ -76,8 +76,8 @@ nav:
 
 {%
   include figure.html
-  image="images/LAB/emma-dad.jpg"
-  caption="Quality time with Dr. Farley and her dad"
+  image="images/LAB/FirstPipette.jpeg"
+  caption="First Pipetting in the Lab!"
   link="team"
   width="100%"
 %}
