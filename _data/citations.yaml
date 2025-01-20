@@ -1,7 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.1038/s41586-023-06956-y
-  title: "Motion of VAPB molecules reveals ER mitochondria contact site subdomains"
+  title: "Motion of VAPB molecules reveals ER\u2013mitochondria contact site subdomains"
   authors:
   - Christopher J. Obara
   - Jonathon Nixon-Abell
@@ -18,16 +18,18 @@
   - Craig Blackstone
   - Jennifer Lippincott-Schwartz
   publisher: Nature
-  date: '2024-01-24'
+  date: ''
   link: https://doi.org/gtqthd
   orcid: 0000-0003-1028-6076
   plugin: sources.py
   file: sources.yaml
   type: paper
-  description: ''
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-06956-y/MediaObjects/41586_2023_6956_Fig1_HTML.png?as=webp
   buttons:
-  - type: article
+  - type: source
+    text: Manuscript Source
     link: https://www.nature.com/articles/s41586-023-06956-y
 - id: doi:10.1038/s41586-023-05828-9
   title: Fast and sensitive GCaMP calcium indicators for imaging neural populations
@@ -58,14 +60,10 @@
   - Loren L. Looger
   publisher: Nature
   date: '2023-03-15'
-  buttons:
-  - type: article
-    link: https://doi.org/gr3r34
   link: https://doi.org/gr3r34
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-023-05828-9/MediaObjects/41586_2023_5828_Fig1_HTML.png?as=webp
 - id: doi:10.1101/2023.08.22.554218
   title: PDZD8-FKBP8 tethering complex at ER-mitochondria contact sites regulates
     mitochondrial complexity
@@ -99,10 +97,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: images/publication/pdz.png
-  buttons:
-  - type: preprint
-    link: https://doi.org/gt6mb9
 - id: doi:10.1101/2023.04.23.537908
   title: Simultaneous photoactivation and high-speed structural tracking reveal diffusion-dominated
     motion in the endoplasmic reticulum
@@ -114,14 +108,10 @@
   - David Holcman
   publisher: Cold Spring Harbor Laboratory
   date: '2023-04-25'
-  link: https://doi.org/10.1101/2023.04.23.537908
+  link: https://doi.org/gt6mcb
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: images/publication/simultaneouspa.png
-  buttons:
-  - type: preprint
-    link: https://www.biorxiv.org/content/10.1101/2023.04.23.537908v2
 - id: doi:10.1101/cshperspect.a041259
   title: "Structural Diversity within the Endoplasmic Reticulum\u2014From the Microscale\
     \ to the Nanoscale"
@@ -135,10 +125,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: images/publication/structural-diversity.png
-  buttons:
-  - type: article
-    link: https://doi.org/gq8d2v
 - id: doi:10.1038/s41586-021-04204-9
   title: ER proteins decipher the tubulin code to regulate organelle distribution
   authors:
@@ -152,14 +138,52 @@
   - Craig Blackstone
   publisher: Nature
   date: '2021-12-15'
-  link: https://www.nature.com/articles/s41586-021-04204-9
+  link: https://doi.org/gntjwd
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-04204-9/MediaObjects/41586_2021_4204_Fig2_HTML.png?as=webp
-  buttons: 
-  - type: article 
-    link: https://www.nature.com/articles/s41586-021-04204-9
+- id: doi:10.1101/2022.09.03.505525
+  title: Motion of single molecular tethers reveals dynamic subdomains at ER-mitochondria
+    contact sites
+  authors:
+  - Christopher J. Obara
+  - Jonathon Nixon-Abell
+  - Andrew S. Moore
+  - Federica Riccio
+  - David P. Hoffman
+  - Gleb Shtengel
+  - C. Shan Xu
+  - Kathy Schaefer
+  - H. Amalia Pasolli
+  - Jean-Baptiste Masson
+  - Harald F. Hess
+  - Christopher P. Calderon
+  - Craig Blackstone
+  - Jennifer Lippincott-Schwartz
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-09-03'
+  link: https://doi.org/gt6mcc
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41586-022-04656-7
+  title: 'Publisher Correction: ER proteins decipher the tubulin code to regulate
+    organelle distribution'
+  authors:
+  - Pengli Zheng
+  - Christopher J. Obara
+  - Ewa Szczesna
+  - Jonathon Nixon-Abell
+  - Kishore K. Mahalingan
+  - Antonina Roll-Mecak
+  - Jennifer Lippincott-Schwartz
+  - Craig Blackstone
+  publisher: Nature
+  date: '2022-03-23'
+  link: https://doi.org/gt6mcd
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1103/PhysRevResearch.4.023182
   title: Unraveling trajectories of diffusive particles on networks
   authors:
@@ -175,10 +199,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: images/publication/unraveling.png
-  buttons: 
-  - type: article 
-    link: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023182
 - id: doi:10.1038/s41586-021-03309-5
   title: Actin cables and comet tails organize mitochondrial networks in mitosis
   authors:
@@ -202,10 +222,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-021-03309-5/MediaObjects/41586_2021_3309_Fig1_HTML.png?as=webp
-  buttons: 
-  - type: article 
-    link: https://www.nature.com/articles/s41586-021-03309-5
 - id: doi:10.1007/978-1-0716-1402-0_1
   title: Advances in Confocal Microscopy and Selected Applications
   authors:
@@ -217,10 +233,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-1-0716-1402-0_1/MediaObjects/475400_1_En_1_Fig2_HTML.png?as=webp
-  buttons: 
-  - type: article 
-    link: https://link.springer.com/protocol/10.1007/978-1-0716-1402-0_1
 - id: doi:10.1038/s41592-021-01236-x
   title: Deep learning enables fast and dense single-molecule localization with high
     accuracy
@@ -241,13 +253,130 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41592-021-01236-x/MediaObjects/41592_2021_1236_Fig1_HTML.png?as=webp
-  buttons: 
-  - type: article 
-    link: https://doi.org/gmpfzt
+- id: doi:10.1101/2021.11.08.467793
+  title: Fast and sensitive GCaMP calcium indicators for imaging neural populations
+  authors:
+  - Yan Zhang
+  - "M\xE1rton R\xF3zsa"
+  - Yajie Liang
+  - Daniel Bushey
+  - Ziqiang Wei
+  - Jihong Zheng
+  - Daniel Reep
+  - Gerard Joey Broussard
+  - Arthur Tsang
+  - Getahun Tsegaye
+  - Sujatha Narayan
+  - Christopher J. Obara
+  - Jing-Xuan Lim
+  - Ronak Patel
+  - Rongwei Zhang
+  - Misha B. Ahrens
+  - Glenn C. Turner
+  - Samuel S.-H. Wang
+  - Wyatt L. Korff
+  - Eric R. Schreiter
+  - Karel Svoboda
+  - Jeremy P. Hasseman
+  - Ilya Kolb
+  - Loren L. Looger
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-08'
+  link: https://doi.org/gst89n
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.21203/rs.3.rs-1061816/v1
+  title: Fast and sensitive GCaMP calcium indicators for imaging neural populations
+  authors:
+  - Loren Looger
+  - Yan Zhang
+  - "Mart\xF3n R\xF3zsa"
+  - Yajie Liang
+  - Daniel Bushey
+  - Ziqiang Wei
+  - Jihong Zheng
+  - Daniel Reep
+  - Gerard Joey Broussard
+  - Arthur Tsang
+  - Getahun Tsegaye
+  - Sujatha Narayan
+  - Christopher Obara
+  - Jing Lim
+  - Ronak Patel
+  - Rongwei Zhang
+  - Misha Ahrens
+  - Glenn Turner
+  - Samuel Wang
+  - Wyatt Korff
+  - Eric Schreiter
+  - Karel Svoboda
+  - Jeremy Hasseman
+  - Ilya Kolb
+  publisher: Research Square Platform LLC
+  date: '2021-11-18'
+  link: https://doi.org/gt6mch
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41592-021-01305-1
+  title: 'Publisher Correction: Deep learning enables fast and dense single-molecule
+    localization with high accuracy'
+  authors:
+  - Artur Speiser
+  - "Lucas-Raphael M\xFCller"
+  - Philipp Hoess
+  - Ulf Matti
+  - Christopher J. Obara
+  - Wesley R. Legant
+  - Anna Kreshuk
+  - Jakob H. Macke
+  - Jonas Ries
+  - Srinivas C. Turaga
+  publisher: Nature Methods
+  date: '2021-09-21'
+  link: https://doi.org/gt6mcj
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arxiv.2112.05884
+  title: Unraveling Single-Particle Trajectories Confined in Tubular Networks
+  authors:
+  - Yunhao Sun
+  - Zexi Yu
+  - Christopher J. Obara
+  - Keshav Mittal
+  - Jennifer Lippincott-Schwarz
+  - Elena F Koslover
+  publisher: arXiv
+  date: '2021-01-01'
+  link: https://doi.org/gt6mck
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.10.26.355164
+  title: Deep learning enables fast and dense single-molecule localization with high
+    accuracy
+  authors:
+  - Artur Speiser
+  - "Lucas-Raphael M\xFCller"
+  - Ulf Matti
+  - Christopher J. Obara
+  - Wesley R. Legant
+  - Anna Kreshuk
+  - Jakob H. Macke
+  - Jonas Ries
+  - Srinivas C. Turaga
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-10-26'
+  link: https://doi.org/gsw8mn
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/anie.201706121
-  title: "Rational Engineering of Photoconvertible Fluorescent Proteins for Dual
-    Color Fluorescence Nanoscopy Enabled by a Triplet State Mechanism of Primed Conversion"
+  title: "Rational Engineering of Photoconvertible Fluorescent Proteins for Dual\u2010\
+    Color Fluorescence Nanoscopy Enabled by a Triplet\u2010State Mechanism of Primed\
+    \ Conversion"
   authors:
   - Manuel Alexander Mohr
   - Andrei Yu. Kobitski
@@ -263,10 +392,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://onlinelibrary.wiley.com/cms/asset/309c21fd-f0c9-4662-81a7-086129538a31/anie201706121-fig-0003-m.jpg
-  buttons: 
-  - type: article 
-    link: https://doi.org/gbmv26
 - id: doi:10.1126/science.aaf3928
   title: Increased spatiotemporal resolution reveals highly dynamic dense tubular
     matrices in the peripheral ER
@@ -289,10 +414,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://www.science.org/cms/10.1126/science.aaf3928/asset/008959c8-982a-4ff1-bd28-e84bb61fb676/assets/graphic/354_aaf3928_f3.jpeg
-  buttons: 
-  - type: article 
-    link: https://doi.org/f9bwq6
 - id: doi:10.4049/jimmunol.1500352
   title: Differential Roles of Chemokines CCL2 and CCL7 in Monocytosis and Leukocyte
     Migration during West Nile Virus Infection
@@ -312,10 +433,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/195/9/10.4049_jimmunol.1500352/2/m_ji_1500352_f2.jpeg?Expires=1724761174&Signature=DxKVB8BlNCeEeCloaByqrv2HT3stETj7RDvtX8KreZGHPOmqtMNVz~Rg5bDzps2J~2YCtGC~iCsiayCXvnH03Ho1LtrykHdw44q1kNa9ziF6gehc2iI~fF03pTwoXXIUjynTLwjvetlZNxOpKwUVhmpogpTZLmqVYVZ87ms3oKgZn~Pg0uhdRhwX2vnWFvPU4Xk4jwZwLmCZek~fBXLRbRyParDTjyl~4q2YHsIoE3WV6-AnBkxRj-A6FwYDk4vunQve~vshq3TuEdWHceQQkF835XuoDmxIvBk1y0JkKw2OCPbOfvE2N3RFM4yOCLapKvgAWOLZNmPTlz4r1qpfRg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
-  buttons: 
-  - type: article 
-    link: https://doi.org/f7vfz3
 - id: doi:10.1016/j.virol.2012.11.016
   title: Impact of viral attachment factor expression on antibody-mediated neutralization
     of flaviviruses
@@ -330,10 +447,6 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S0042682212005892-gr2.jpg
-  buttons: 
-  - type: article 
-    link: https://doi.org/f4nzcx
 - id: doi:10.4049/jimmunol.1003003
   title: Chemokine Receptor Ccr2 Is Critical for Monocyte Accumulation and Survival
     in West Nile Virus Encephalitis
@@ -350,7 +463,16 @@
   orcid: 0000-0003-1028-6076
   plugin: orcid.py
   file: orcid.yaml
-  buttons: 
-  - type: article 
-    link: https://doi.org/cjn4rd
-  image: https://aai.silverchair-cdn.com/aai/content_public/journal/jimmunol/186/1/10.4049_jimmunol.1003003/6/m_1003003fig04.jpeg?Expires=1724721893&Signature=sX~aAQ9~4aAOuxUymNFpY7y2PyI0E4hkxIzUB9xBPtfYfIjjecB7EimEWOpQUg43OAqJMYLI8EKx19A51IzORelocd0Z2UPm4yUkmz7Dv5~5mZ2RkrwZoJtN61fUChh-J9SESmauNmEAwJQulzFeZs6O8gOC7yc02jg1-S2mCfdgqOisuGyVLzxW81pX0WGCTM80J~EsfFdeH1ETQRKg8ODEMQmVqSATq6MhTXPYeg3LYv3oDXSIWGFamFLQ5JftiLU1sxjmUlH0XRKr5kOZx0zDNoUU1ahqpEjUry5~QT22UcSmyOVBW7dtdEHD8~QOsR-OYk31If6eEG4xIpD88Q__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+- id: doi:10.1117/12.828179
+  title: 'Electronic confinement effects and optical properties of multilayer slabs
+    of silicon: numerical model studies'
+  authors:
+  - Christopher J. Obara
+  - Dmitri S. Kilin
+  - David A. Micha
+  publisher: SPIE Proceedings
+  date: '2009-08-20'
+  link: https://doi.org/bzwcrs
+  orcid: 0000-0003-1028-6076
+  plugin: orcid.py
+  file: orcid.yaml
