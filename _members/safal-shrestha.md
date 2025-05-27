@@ -11,7 +11,6 @@ links:
   home-page: https://savill88.github.io/personal-website/
 ---
 
-# <u>About</u>
 
 Originally from Nepal, my passion for science, particularly at the intersection of biology and mathematics, led me to pursue a Bachelor’s degree in Bioinformatics at Ramapo College of New Jersey. The courses there exposed me to a broad range of topics, from microbiology to algorithms, but it was an elective course, Protein Structure and Modeling, taught by Dr. Ashley Stuart, that sparked my deep fascination with protein structures. I was captivated by the idea of proteins as nanoscale molecular machines, especially when I learned about the early evidence of molecular evolution revealed through the crystal structures of myoglobin and hemoglobin, and the concept of modularity in proteins. <br>
 

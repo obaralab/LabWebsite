@@ -40,6 +40,16 @@ nav:
   tags="Doggos"
 %}
 
+{%
+  include card.html
+  image="images/LeoLuna.jpeg"
+  link="members/gio-serrano"
+  title="Leo and Luna"
+  tooltip="Emotional Support Animals for Gio"
+  style="big"
+  tags="Doggos"
+%}
+
 
 
 {% endcapture %}
