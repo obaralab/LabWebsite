@@ -12,16 +12,16 @@ carousels:
 ---
 
 <div class="hero">
-  <h1>Welcome to the Obara Lab</h1>
+  <h1>Obara Lab@ UC San Diego</h1>
   <div class="nav-buttons">
-    <a href="/about">About Us</a>
-    <a href="/projects">Projects</a>
-    <a href="/team">Team</a>
-    <a href="/contact">Contact</a>
+    <a href="/projects">PROJECTS</a>
+    <a href="/publication/"> PUBLICATIONS </a>
+    <a href="/team">TEAM</a>
+    <a href="/PI/">PI </a>
+    <a href="/contact">CONTACT</a>
   </div>
 </div>
 
-# **<u>Microscopy and beyond</u>**
 
 
 The <b>Obara Lab</b> is a team of creative, open-minded individuals working together, trying to address the big questions in cell biology and biophysics. <i>What is life? How does metabolism work? What causes aging? </i> We believe living systems are dynamic, responsive, and inherently complex—and this makes them perfect for quantitative, live cell imaging and high-resolution ultrastructural analysis. Our strategy is developing and integrating the <b>next generation of imaging technologies</b> with classical techniques in <b>biochemistry, statistical physics, and structural biology</b>. We are proud to perform most of our work collaboratively with amazing colleagues and are committed to sharing our tools freely with the wider scientific community.

@@ -10,17 +10,25 @@
   text-size-adjust: none;
 }
 .hero {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  min-height: 100vh;
-  background-image: url('/images/ER-coloredZ.jpg');
+  background-image: url('/images/WT-001_SIM_glow.png');
   background-size: cover;
   background-position: center;
-  text-align: center;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
   color: var(--text);
-  padding: 2rem;
+  z-index: 0;
+  overflow: hidden;
 }
 
 .hero .nav-buttons {
