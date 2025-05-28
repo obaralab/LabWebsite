@@ -1,19 +1,7 @@
 ---
 ---
-/*
+
 // colors
-[data-dark="false"] {
-  --primary: #00629B;
-  --secondary: #C69214;
-  --text: #182B49;
-  --background: #F5F0E6;
-  --background-alt: #FFFFFF;
-  --light-gray: #B6B1A9;
-  --gray: #747678;
-  --dark-gray: #182B49;
-  --overlay: #00000020;
-}
-*/
 [data-dark="true"] {
   --primary: #0795d9;
   --secondary: #075985;
@@ -25,24 +13,35 @@
   --dark-gray: #b0b0b0;
   --overlay: #ffffff10;
 }
+[data-dark="false"] {
+  --primary: #00629B;
+  --secondary: #C69214;
+  --text: #182B49;
+  --background: #F5F0E6;
+  --background-alt: #FFFFFF;
+  --light-gray: #B6B1A9;
+  --gray: #747678;
+  --dark-gray: #182B49;
+  --overlay: #00000020;
+}
 
 :root {
   // font families
-  --title: "Lora", sans-serif;
-  --heading: "Roboto", sans-serif;
-  --body: "Roboto", sans-serif;
+  --title: "Barlow", sans-serif;
+  --heading: "Barlow", sans-serif;
+  --body: "Barlow", sans-serif;
   --code: "Roboto Mono", monospace;
 
   // font sizes
-  --large: 1rem;
-  --xl: 1.5rem;
-  --xxl: 2.5rem;
+  --large: 1.2rem;
+  --xl: 1.4rem;
+  --xxl: 1.6rem;
 
   // font weights
   --thin: 200;
   --regular: 400;
-  --semi-bold: 450;
-  --bold: 500;
+  --semi-bold: 500;
+  --bold: 600;
 
   // text line spacing
   --spacing: 2;
