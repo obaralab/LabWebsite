@@ -1,0 +1,39 @@
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-image: url('/assets/images/hero.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  color: var(--text);
+  padding: 2rem;
+
+  h1 {
+    font-size: var(--xxl);
+    font-family: var(--title);
+    margin-bottom: 1rem;
+  }
+
+  .nav-buttons {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+
+    a {
+      padding: 0.75rem 1.5rem;
+      background-color: var(--primary);
+      color: white;
+      border-radius: var(--rounded);
+      text-decoration: none;
+      transition: background-color var(--transition);
+      font-weight: var(--semi-bold);
+
+      &:hover {
+        background-color: var(--secondary);
+      }
+    }
+  }
+}

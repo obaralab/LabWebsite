@@ -10,7 +10,15 @@ carousels:
     - image: /images/carousel/fit_Vapb.gif
     
 ---
-
+<div class="hero">
+  <h1>Welcome to the Obara Lab</h1>
+  <div class="nav-buttons">
+    <a href="/about">About Us</a>
+    <a href="/projects">Projects</a>
+    <a href="/team">Team</a>
+    <a href="/contact">Contact</a>
+  </div>
+</div>
 <!--
 # **<u>Microscopy and beyond</u>**
 -->
