@@ -1,11 +1,9 @@
 <!DOCTYPE html>
-<html lang="en" data-dark="false">
+<html lang="en" data-dark="true">
  
   <body>
-    {% unless page.url == "/" %}
-      {% include header.html %}
-    {% endunless %}
-    <!--{% include header.html %}-->
+    
+    {% include header.html %}
     <main>
       {% include content.html content=content %}
     </main>
