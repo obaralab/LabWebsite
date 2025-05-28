@@ -1,10 +1,11 @@
 <!DOCTYPE html>
 <html lang="en" data-dark="false">
-  {% unless page.url == "/" %}
-    {% include header.html %}
-  {% endunless %}
+ 
   <body>
-    {% include header.html %}
+    {% unless page.url == "/" %}
+      {% include header.html %}
+    {% endunless %}
+    <!--{% include header.html %}-->
     <main>
       {% include content.html content=content %}
     </main>
