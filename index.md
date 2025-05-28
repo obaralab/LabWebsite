@@ -1,4 +1,4 @@
----
+<!-----
 title: Home
 nav:	
   order: 1
@@ -10,6 +10,7 @@ carousels:
     - image: /images/carousel/fit_Vapb.gif
     
 ---
+-->
 <div class="hero">
   <h1>Welcome to the Obara Lab</h1>
   <div class="nav-buttons">
@@ -19,7 +20,7 @@ carousels:
     <a href="/contact">Contact</a>
   </div>
 </div>
-<!--
+
 # **<u>Microscopy and beyond</u>**
 -->
 
