@@ -12,7 +12,8 @@ carousels:
 ---
 
 <div class="hero">
-  <h1>Obara Lab@ UC San Diego</h1>
+  <h1><b>Obara Lab@ UC San Diego</b></h1>
+  <h3>Integrating technology and biology to link the scales of life. </h3>
   <div class="nav-buttons">
     <a href="/projects">PROJECTS</a>
     <a href="/publication/"> PUBLICATIONS </a>
