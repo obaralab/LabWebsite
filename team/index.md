@@ -42,7 +42,7 @@ nav:
 
 {%
   include card.html
-  image="images/LeoLuna.jpeg"
+  image="images/LeoLuna.jpg"
   link="members/gio-serrano"
   title="Leo and Luna"
   tooltip="Emotional Support Animals for Gio"

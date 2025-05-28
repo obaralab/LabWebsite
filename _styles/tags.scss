@@ -16,7 +16,7 @@
   margin: 0;
   padding: 1px 5px;
   border-radius: 999px;
-  background: var(--secondary);
+  background: var(--primary);
   color: var(--text);
   text-decoration: none;
   overflow: hidden;
@@ -27,9 +27,9 @@
 }
 
 .tag:hover {
-  background: var(--light-gray);
+  background: var(--secondary);
 }
 
 .tag[data-active] {
-  background: var(--light-gray);
+  background: var(--secondary);
 }

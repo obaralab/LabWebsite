@@ -1,6 +1,6 @@
 ---
 name: Lilly Castorena
-image: images/Lilly.jpeg
+image: images/Lilly.jpg
 role: undergrad
 group: active
 ---

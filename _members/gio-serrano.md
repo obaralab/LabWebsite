@@ -1,7 +1,7 @@
 ---
 name: Giovanni Serrano
-image: images/Gio.jpeg
-role: phd
+image: images/Gio.jpg
+role: masters
 group: active
 ---
 
