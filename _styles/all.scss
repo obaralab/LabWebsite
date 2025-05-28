@@ -10,10 +10,10 @@
   text-size-adjust: none;
 }
 .hero {
-  position: fixed;
-  inset: 0;
   width: 100vw;
   height: 100dvh;
+  margin: 0;
+  padding: 2rem;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,11 +23,10 @@
   background-position: center;
   background-repeat: no-repeat;
   box-sizing: border-box;
-  padding: 2rem;
   color: var(--text);
-  z-index: -1;
-  overflow: hidden;
+  text-align: center;
 }
+
 
 .hero .nav-buttons {
   display: flex;
