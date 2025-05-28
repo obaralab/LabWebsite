@@ -14,8 +14,10 @@ carousels:
 <!--
 # **<u>Microscopy and beyond</u>**
 -->
+
 The <b>Obara Lab</b> is a team of creative, open-minded individuals working together, trying to address the big questions in cell biology and biophysics. <i>What is life? How does metabolism work? What causes aging? </i> We believe living systems are dynamic, responsive, and inherently complex—and this makes them perfect for quantitative, live cell imaging and high-resolution ultrastructural analysis. Our strategy is developing and integrating the <b>next generation of imaging technologies</b> with classical techniques in <b>biochemistry, statistical physics, and structural biology</b>. We are proud to perform most of our work collaboratively with amazing colleagues and are committed to sharing our tools freely with the wider scientific community.
-{% include carousel.html height="40" unit="%" duration="12" %}
+
+<!--{% include carousel.html height="40" unit="%" duration="12" %} -->
 
 
 {% include section.html %}
