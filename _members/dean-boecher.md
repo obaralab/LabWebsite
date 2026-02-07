@@ -5,7 +5,11 @@ role: phd
 group: active
 ---
 
-Hi everyone! My name is Dean, and I’m a Bioengineering PhD student here at UCSD with the privilege of being in the Obara Lab. In spring 2024, I completed my B.S. in Engineering Physics at Belmont University in Nashville, TN, where my passion for research was ignited in the lab of Dr. Becky Adams. My initial research endeavors involved using molecular biology and fluorescence microscopy to study the interactions between nuclear membrane proteins in response to mechanical stimuli. Hailing from Boston, I was also fortunate enough to participate in the Physics Research Opportunity REU at Boston University in my hometown during my undergrad, where I worked with Dr. Shyam Erramilli’s group to construct novel ultrafast imaging set ups with high signal-to-background ratios.  <br> Much of my motivation to continue my education pursuing my PhD was to drive discovery in this bridge between engineering and biology, as well as to mature as a mentor and problem-solver. What initially drew me to Chris upon my arrival at UCSD was the prospect of merging these interests in optics and cell biology, but I have grown especially fond of the jovial lab culture and diversity of the research interests within the group. <br> Outside of the lab, I love spending time outdoors at the beach or in the mountains and spending time with my friends. I swim, run, and play lots of volleyball, but also really love music and writing. 
+Hi, everyone! My name is Dean, and I am a Bioengineering PhD student here at UCSD. In spring 2024, I completed my B.S. in Engineering Physics at Belmont University in Nashville, TN, where my passion for research was ignited in the lab of Dr. Becky Adams, studying interactions between nuclear membrane proteins. During my undergraduate, I also had the opportunity to participate in the Physics Research Opportunity REU in my hometown at Boston University, where I worked with Dr. Shyam Erramilli’s ultrafast imaging group. <br>
+
+Here, in the Obara lab, I am able to drive discovery in this bridge between cell biology and innovative imaging technology. Specifically, my research focuses on two topics: (1) the dynamic organization of peroxisome biogenesis, and (2) the differential landscapes of endoplasmic reticulum-mitochondria contact sites. I am also grateful to be a part of the Interfaces Program here at UCSD, supported by the NIBIB training grant in Multi-Scale Analysis of Biological Structures and Function. <br>
+
+If I am not in the lab, you can most likely find me playing volleyball, listening to music, beating my friends in board games, or frolicking at the beach – often, some combination of the four.
 
 {% capture content %}
 {%
@@ -36,6 +40,19 @@ Hi everyone! My name is Dean, and I’m a Bioengineering PhD student here at UCS
   width="100%"
 %}
 
+{%
+  include figure.html
+  image="images/Dean-Team/dean5.jpg"
+  link="team"
+  width="100%"
+%}
+
+{%
+  include figure.html
+  image="images/Dean-Team/dean6.jpeg"
+  link="team"
+  width="100%"
+%}
 {% endcapture %}
 {%
   include grid.html

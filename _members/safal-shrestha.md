@@ -1,6 +1,6 @@
 ---
 name: Safal Shrestha
-image: images/safal-2.png
+image: images/safal.jpg
 role: postdoc
 group: active
 style: big
