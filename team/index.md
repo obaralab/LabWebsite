@@ -50,7 +50,15 @@ nav:
   tags="Doggos"
 %}
 
-
+{%
+  include card.html
+  image="images/SoupJuice.jpg"
+  link="members/brandon-liu"
+  title="Soup and Juice"
+  tooltip="Emotional Support Animals for Brandon"
+  style="big"
+  tags="Cats"
+%}
 
 {% endcapture %}
 
