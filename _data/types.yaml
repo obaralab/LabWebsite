@@ -19,13 +19,22 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+md-phd:
+  icon: fa-solid fa-graduation-cap
+  description: MD/PhD Student
+
 masters:
   icon: fa-solid fa-graduation-cap
   description: Master's Student
 
+post-bac:
+  icon: fa-solid fa-graduation-cap
+  description: Post-Baccalaureate Researcher
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
 
 programmer:
   icon: fa-solid fa-code

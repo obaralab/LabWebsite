@@ -1,9 +1,9 @@
 ---
 name: Coco Li
 image: images/Coco.jpeg
-role: undergrad
+role: post-bac
 group: active
-style: big
+
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: Brandon Liu
 image: images/brandon.jpg
-role: phd
+role: md-phd
 group: active
 ---
 Hi, I'm Brandon! I'm an MD/PhD student in Biomedical Sciences with Dr. Christopher Obara and Dr. Susan Taylor. Growing up in LA, I completed my BS in biochemistry at Cal State LA, starting my journey in physical and materials chemistry with Dr. Yangyang Liu (no relation) and Dr. Matthias Selke – far from biology at first! I studied how nanomaterials known as metal-organic frameworks can produce high-energy states of oxygen, useful for synthesizing molecules or neutralizing chemical toxins. I was fascinated by molecular tools and most excited to apply this to biology. After college, I ventured into chemical biology as an NIH Postbac with Dr. Joseph Barchi Jr. Using the same chemical techniques, I studied carbohydrate-based cancer antigens and their molecular behaviors. From these experiences, I have learned to approach science with a molecular perspective. <br>
