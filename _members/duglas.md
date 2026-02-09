@@ -23,12 +23,7 @@ I've always had a deep curiosity about how things work, especially at the smalle
   width="100%"
 %}
 
-{%
-  include figure.html
-  image="images/Duglas-Team/duglas-3.jpg"
-  link="team"
-  width="100%"
-%}
+
 
 {%
   include figure.html
