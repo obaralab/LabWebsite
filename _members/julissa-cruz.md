@@ -1,5 +1,5 @@
 ---
-name: Julissa Cruz
+name: Julissa Cruz Bautista
 image: images/Julissa.jpeg
 role: phd
 group: active
