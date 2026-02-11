@@ -1,6 +1,6 @@
 ---
 name: Julissa Cruz
-image: images/Julissa.jpg
+image: images/Julissa.jpeg
 role: phd
 group: active
 ---

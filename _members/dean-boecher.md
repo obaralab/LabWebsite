@@ -22,7 +22,7 @@ If I am not in the lab, you can most likely find me playing volleyball, listenin
 
 {%
   include figure.html
-  image="images/Dean-Team/dean5.jpg"
+  image="images/Dean-Team/dean5.jpeg"
   link="team"
   width="100%"
 %}
