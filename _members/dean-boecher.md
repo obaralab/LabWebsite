@@ -12,26 +12,6 @@ Here, in the Obara lab, I am able to drive discovery in this bridge between cell
 If I am not in the lab, you can most likely find me playing volleyball, listening to music, beating my friends in board games, or frolicking at the beach – often, some combination of the four.
 
 {% capture content %}
-{%
-  include figure.html
-  image="images/Dean-Team/dean1.jpeg"
-  link="team"
-  width="100%"
-%}
-
-{%
-  include figure.html
-  image="images/Dean-Team/dean2.jpeg"
-  link="team"
-  width="100%"
-%}
-
-{%
-  include figure.html
-  image="images/Dean-Team/dean3.jpg"
-  link="team"
-  width="100%"
-%}
 
 {%
   include figure.html

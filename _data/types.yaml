@@ -29,7 +29,7 @@ masters:
 
 post-bac:
   icon: fa-solid fa-graduation-cap
-  description: Post-Baccalaureate Researcher
+  description: Research Associate
 
 undergrad:
   icon: fa-solid fa-user-graduate

@@ -3,7 +3,6 @@ name: Safal Shrestha
 image: images/safal.jpg
 role: postdoc
 group: active
-style: big
 links:
   email: sashrestha@health.ucsd.edu
   orcid: 0000-0002-9417-2246

@@ -60,6 +60,16 @@ nav:
   tags="Cats"
 %}
 
+{%
+  include card.html
+  image="images/Julissa-support.png"
+  link="members/julissa-cruz"
+  title="Ruski, Tobi, Rambo"
+  tooltip="Emotional Support Animals for Julissa"
+  style="big"
+  tags="Doggos"
+%}
+
 {% endcapture %}
 
  
