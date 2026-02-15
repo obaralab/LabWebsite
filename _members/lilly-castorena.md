@@ -40,7 +40,7 @@ I am an extroverted person who is unafraid to speak my mind and remain authentic
   include figure.html
   image="images/Lilly-Team/Lilly4.jpeg"
   link="team"
-  width="100%"
+  
 %}
 
 
