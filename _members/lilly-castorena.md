@@ -18,7 +18,7 @@ I am an extroverted person who is unafraid to speak my mind and remain authentic
 
 {%
   include figure.html
-  image="images/Lilly-Team/Lilly1.jpeg"
+  image="images/Lilly-Team/Lilly1.jpg"
   link="team"
   width="100%"
 %}
@@ -31,14 +31,14 @@ I am an extroverted person who is unafraid to speak my mind and remain authentic
 %}
 {%
   include figure.html
-  image="images/Lilly-Team/Lilly3.jpeg"
+  image="images/Lilly-Team/Lilly3.jpg"
   link="team"
   width="100%"
 %}
 
 {%
   include figure.html
-  image="images/Lilly-Team/Lilly4.jpeg"
+  image="images/Lilly-Team/Lilly4.jpg"
   link="team"
   width="100%"
 %}
